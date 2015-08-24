@@ -1,0 +1,5 @@
+c:\users\antonio\documents\visual studio 2015\Projects\ExampleCRUD\ExampleCRUD\bin\Debug\ExampleCRUD.dll
+c:\users\antonio\documents\visual studio 2015\Projects\ExampleCRUD\ExampleCRUD\bin\Debug\ExampleCRUD.pdb
+c:\users\antonio\documents\visual studio 2015\Projects\ExampleCRUD\ExampleCRUD\obj\Debug\ExampleCRUD.csprojResolveAssemblyReference.cache
+c:\users\antonio\documents\visual studio 2015\Projects\ExampleCRUD\ExampleCRUD\obj\Debug\ExampleCRUD.dll
+c:\users\antonio\documents\visual studio 2015\Projects\ExampleCRUD\ExampleCRUD\obj\Debug\ExampleCRUD.pdb
